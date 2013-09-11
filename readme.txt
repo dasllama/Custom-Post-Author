@@ -1,31 +1,14 @@
-=== Manual Author Input ===
-Contributors: hughwillfayle, bueltge, inpsyde
+=== Custom Post Author ===
+Contributors: Inpsyde, HerrLlama
 Donate Link: http://inpsyde.com
-Tags: Author Input, Guest Author, Guest Input
-Requires at least: 3.1
-Tested up to: 3.4.1
-Stable tag: 0.1
+Tags: custom post author, custom author, manual author, author
+Requires at least: 3.6
+Tested up to: 3.6
+Stable tag: 1.0
+License: GPLv3
 
-With this plugin you can change the authors name and url within the post. This might be needed, if you have many guest posts.
-
-It is available in:
-<ul>
- <li>German</li>
- <li>English</li>
-</ul>
-
-== Installation ==
-
-1. Upload the folder `manual-author-input` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. See the new meta box in Posts -> Add New
+With this plugin you can change the authors name and url within the post. This might be needed, if you have many guest posts. It is available in english, german, french, spanish.
 
 == Screenshots ==
 
-1. The new meta box
-
-== Changelog ==
-
-= 0.1 =
-* Initial Upload
-* Localization
+1. Metabox at the post edit screen
