@@ -1,9 +1,9 @@
 === Custom Post Author ===
-Contributors: Inpsyde, HerrLlama
+Contributors: inpsyde, HerrLlama
 Donate Link: http://inpsyde.com
 Tags: custom post author, custom author, manual author, author
 Requires at least: 3.6
-Tested up to: 3.6
+Tested up to: 3.7.1
 Stable tag: 1.0
 License: GPLv3
 
