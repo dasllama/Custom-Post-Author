@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom Post Author
  * Description: With this plugin you can change the authors name and url within the post. This might be needed, if you have many guest posts.
- * Version:		1.0
+ * Version:		1.0.1
  * Author:		HerrLlama for Inpsyde GmbH
  * Author URI:	http://inpsyde.com
  * Licence:		GPLv3
@@ -87,7 +87,7 @@ function cpa_save_meta_data( $post_id ) {
 	// Preventing Autosave, we don't want that
 	if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE )
 		return;
-	if ( ! wp_is_post_revision( $post_id ) )
+	if ( !! wp_is_post_revision( $post_id ) )
 		return;
 
 	// Add Post Meta if there is one
