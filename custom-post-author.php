@@ -2,9 +2,9 @@
 /**
  * Plugin Name: Custom Post Author
  * Description: With this plugin you can change the authors name and url within the post. This might be needed, if you have many guest posts.
- * Version:		1.0.1
- * Author:		HerrLlama for Inpsyde GmbH
- * Author URI:	http://inpsyde.com
+ * Version:		1.0.2
+ * Author:		wpcoding.de
+ * Author URI:	http://wpcoding.de
  * Licence:		GPLv3
  */
 
