@@ -1,3 +1,7 @@
+=== ATTANTION ===
+
+The development of this plugin is inactive!
+
 === Custom Post Author ===
 Contributors: wpcodingde, inpsyde, HerrLlama
 Donate Link: http://wpcoding.de
